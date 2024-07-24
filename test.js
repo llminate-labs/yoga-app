@@ -1,11 +1,11 @@
-// Test cases for updated Yoga Pose of the Day section with design image
+// Test Cases
 
-describe('Yoga Pose of the Day Section Update', () => {
-  it('should display the new design image in the section', () => {
-    // Add test logic here
-  });
+describe('Yoga Pose of the Day Section', () => {
+    it('should be updated with the new design image', () => {
+        // Test implementation
+    });
 
-  it('should update the Yoga Pose of the Day section with the new design image', () => {
-    // Add test logic here
-  });
+    it('should display the new design image correctly', () => {
+        // Test implementation
+    });
 });
