@@ -1,0 +1,19 @@
+{
+  "poses": [
+    {
+      "name": "Tree Pose",
+      "description": "Stand tall with hands clasped at your chest and raise one foot to your inner thigh. Hold and breathe.",
+      "image": "https://example.com/tree-pose.jpg"
+    },
+    {
+      "name": "Downward Dog",
+      "description": "Start on your hands and knees, lift your knees and push up, creating an upside-down V shape.",
+      "image": "https://example.com/downward-dog.jpg"
+    },
+    {
+      "name": "Warrior II",
+      "description": "Extend your arms out to the sides, bend the front knee, and gaze over the front hand.",
+      "image": "https://example.com/warrior-ii.jpg"
+    }
+  ]
+}
