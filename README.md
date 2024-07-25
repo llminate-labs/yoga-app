@@ -1,26 +1,28 @@
 # Yoga App
 
-This is a project for a Yoga App. 
+This is a project for a Yoga App.
 
-## Automated Test Validation Results
+## Instructions for Automated Tests Validation
 
-### Test Scenarios:
+### Running Automated Tests:
 
 1. **Header rules - yogagpt Test:**
-   - Verify that the header rules on the Yoga GPT website are functioning correctly.
-   - Check if the header elements (logo, navigation links, etc.) are displayed as expected.
-   - Confirm that the header is responsive on different screen sizes.
-   
+   - Navigate to the project directory where the automated tests are stored.
+   - Locate the test suite or script designated for `Header rules - yogagpt`.
+   - Execute the test suite or script by running the following command:
+     ```
+     run_test_suite header_rules_yogagpt
+     ```
+
 2. **Pages changed - yogagpt Test:**
-   - Ensure that the recent changes made to the Yoga GPT website are reflected on all pages.
-   - Check each page affected by the changes to validate the updates.
-   - Verify that there are no broken links or missing content on the pages.
+   - Within the same project directory, identify the test suite or script mapped to `Pages changed - yogagpt`.
+   - Run the test suite or script using the command:
+     ```
+     run_test_suite pages_changed_yogagpt
+     ```
 
-### Action Items for Validation Testing:
+3. Monitor the test execution to ensure all test scenarios are evaluated comprehensively.
+4. Review the test results for each test case to validate the expected outcomes.
+5. Check the test logs for any abnormalities, failures, or errors encountered during the test runs.
 
-1. Run the automated tests for `Header rules - yogagpt` and `Pages changed - yogagpt`.
-2. Verify that the test results align with the expected outcomes based on the test scenarios.
-3. Review the test logs for any issues or failures.
-4. Share the test results and logs for further analysis.
-
-Let's await the results of the automated tests.
+Once the automated tests for `Header rules - yogagpt` and `Pages changed - yogagpt` have finished executing, gather the test results and logs to assess the test coverage and outcomes accurately. Feel free to share the results for further examination and decision-making. If you face any challenges or need assistance, don't hesitate to ask for help.
