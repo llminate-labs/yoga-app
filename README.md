@@ -3,7 +3,7 @@
 This is a project for a Yoga App.
 
 ## Testing Instructions:
-1. **Unit Testing:**
+1. **Unit Testing:** 
    - Write unit tests to cover the following scenarios:
       - Adding a new yoga pose to the collection.
       - Updating an existing yoga pose.
@@ -30,5 +30,4 @@ This is a project for a Yoga App.
    - Perform security testing to ensure that the API endpoints are secure and protect against common vulnerabilities (e.g., SQL injection, XSS).
    - Ensure that sensitive data is handled securely.
 
-## Changes made:
-- Implemented testing scenarios for the backend system to store a collection of yoga poses.
+Once the tests are implemented, please run them and ensure they pass successfully.
