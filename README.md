@@ -3,7 +3,7 @@
 This is a project for a Yoga App.
 
 ## Testing Instructions:
-1. **Unit Testing:**
+1. **Unit Testing:** 
    - Write unit tests to cover the following scenarios:
       - Adding a new yoga pose to the collection.
       - Updating an existing yoga pose.
