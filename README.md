@@ -29,5 +29,3 @@ This is a project for a Yoga App.
 5. **Security Testing:**
    - Perform security testing to ensure that the API endpoints are secure and protect against common vulnerabilities (e.g., SQL injection, XSS).
    - Ensure that sensitive data is handled securely.
-
-Once the tests are implemented, please run them and ensure they pass successfully.
