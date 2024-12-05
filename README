@@ -1,1 +1,28 @@
+# Yoga App
 
+This is a project for a Yoga App.
+
+## Testing Instructions:
+1. **Unit Testing:**
+   - Test adding a new yoga pose to the collection.
+   - Test updating an existing yoga pose.
+   - Test deleting a yoga pose from the collection.
+   - Test retrieving all yoga poses from the collection.
+
+2. **Integration Testing:**
+   - Verify that the yoga poses are stored correctly in the database.
+   - Test CRUD operations on the yoga poses collection in the database.
+
+3. **API Testing:**
+   - Test adding a new yoga pose through the API.
+   - Test updating a yoga pose through the API.
+   - Test deleting a yoga pose through the API.
+   - Test retrieving all yoga poses through the API.
+
+4. **Performance Testing:**
+   - Test the performance of the backend system when handling a large number of yoga poses.
+   - Measure response times for CRUD operations on the yoga poses collection.
+
+5. **Security Testing:**
+   - Perform security testing to ensure that the API endpoints are secure and protect against common vulnerabilities.
+   - Ensure that sensitive data is handled securely.
